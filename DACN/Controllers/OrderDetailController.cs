@@ -3,7 +3,6 @@ using DACN.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections;
 using System.Collections.Generic;
-using DACN.ModelVM;
 namespace DACN.Controllers
 {
     [Route("api/[controller]")]

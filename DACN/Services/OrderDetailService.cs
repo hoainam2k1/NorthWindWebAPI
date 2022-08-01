@@ -1,7 +1,6 @@
 ﻿using DACN.Models;
 using DACN.Data.Repositories;
-using System.Collections.Generic;
-using DACN.ModelVM; 
+using System.Collections.Generic; 
 namespace DACN.Services
 {
     public interface IOrderDetailService
